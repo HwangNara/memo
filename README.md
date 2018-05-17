@@ -1,4 +1,4 @@
 Memo
 
-* [Memo](https://github.com/HwangNara/memo/wiki/Memo)
-* [Bookmarks](https://github.com/HwangNara/memo/wiki/Bookmarks)
+* [Memo](https://github.com/HwangNara/memo/tree/master/memo)
+* [Bookmarks](https://github.com/HwangNara/memo/tree/master/bookmarks)
