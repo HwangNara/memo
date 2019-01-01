@@ -35,6 +35,6 @@ fatal: could not read Username for 'https://github.com': No error
 ## CHRONOS 스케쥴 중지 시켜두기
 chronous 스케쥴링을 완전히 삭제는 안하는 상태로, 앞으로 스케쥴링이 안되게 하는 옵션
 
-``` disabled: true이면 앞으로 작동하지 않음```
+`disabled: true`이면 앞으로 작동하지 않음
 
 출처: https://mesos.github.io/chronos/docs/api.html
